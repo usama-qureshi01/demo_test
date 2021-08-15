@@ -8,6 +8,4 @@ Youtube test
 
 ## content
 
-## manual branching
-=======
 
